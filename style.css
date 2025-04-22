@@ -240,13 +240,13 @@ video{
     transition: transform 0.8s ease-in-out;
 }
 #card1{
-    background-image: url('/assets/card1.jpeg');
+    background-image: url('./assets/card1.jpeg');
 }
 #card2{
-    background-image: url('/assets/card2.jpeg');
+    background-image: url('./assets/card2.jpeg');
 }
 #card3{
-    background-image: url('/assets/card3.jpeg');
+    background-image: url('./assets/card3.jpeg');
 }
 .overlay{
     height: 100%;
